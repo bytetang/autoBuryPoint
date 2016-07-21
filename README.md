@@ -107,9 +107,9 @@ public class BaseActivity extends AppCompatActivity {
 ```
 
 ###待完善##
--支持多种数据结构（目前是JSONObject）方式采集参数。添加初始化适配器（调研可以行）
--click埋点运行时方案（调研）
--原有埋点基础数据兼容（可行）
+- 支持多种数据结构（目前是JSONObject）方式采集参数。添加初始化适配器（调研可以行）
+- click埋点运行时方案（调研）
+- 原有埋点基础数据兼容（可行）
 
 
 
