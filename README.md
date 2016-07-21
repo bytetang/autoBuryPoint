@@ -94,7 +94,7 @@ public class BaseActivity extends AppCompatActivity {
     Log.d(TAG,"hello2");
   }
     
-    
+  #implements FunctionTraceAspect.ITrackData
   @Override
   public JSONObject data(String key) throws JSONException{
     JSONObject data = new JSONObject();
